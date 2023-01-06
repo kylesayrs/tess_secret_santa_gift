@@ -1,0 +1,15 @@
+<div id="center_div">
+	<h3 id="announcement_text">
+		{{ announcement_text }}
+	</h3>
+	<h3 id="hint_text">
+		{{ hint_text }}
+	</h3>	
+	<h2 id="answer_text" (click)="showAnswer()">
+		{{ answer_text }}
+	</h2>
+	<h4 id="announcement_subtext" (click)="startGame()">
+		{{ announcement_subtext }}
+	</h4>
+	<countdown #cd [config]="{leftTime: 10, format: 's.S', demand: true}"></countdown>
+</div>

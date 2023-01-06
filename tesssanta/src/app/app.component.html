@@ -1,0 +1,37 @@
+<link rel="stylesheet" href="https://unpkg.com/picnic">
+
+<div style="position: sticky; margin: 20px; height:150px; width: 100%; overflow-x: hidden;">
+
+<div style="overflow-x: visible">
+
+<div style="
+height: 150px; margin-left: 10px; margin-right: 10px;">
+
+	<img style="float: left;" routerLink="" height=150 src="../assets/svedka.png">
+
+	<div style="float: left; margin-left: 5px; margin-top: 5px; width:65px; border-left-style: solid">
+
+		<button style="float:top" routerLink="/howtoplay">
+			How
+		</button>
+
+		<button style="float:top" class="success" routerLink="/edit">
+			Edit
+		</button>
+
+		<button style="float:top" class="error" routerLink="/play">
+			Play
+		</button>
+
+	</div>
+
+</div>
+
+	<img style="position: absolute; top: 3px; left: 190px;
+	height: 150px;" (click) = "changeSideImage()" src="{{side_image_link}}">
+
+</div>
+
+</div>
+
+<router-outlet></router-outlet>

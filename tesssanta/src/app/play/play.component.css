@@ -1,0 +1,12 @@
+[id="center_div"] {
+	position: fixed;
+	top: 60%;
+	left: 50%;
+	width: 80%;
+	text-align: center;
+	transform: translate(-50%, -50%);
+}
+
+[id="announcement_subtext"] {
+	color: red;
+}

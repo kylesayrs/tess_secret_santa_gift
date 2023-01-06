@@ -1,0 +1,35 @@
+#top {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 40%;
+}
+
+#middle {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 20%;
+}
+
+#bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 40%;
+}
+
+#middle {
+    top: 40%;
+    background-color: #CFCFCF;
+}
+
+#top {
+    top: 0;
+    background-color: #FB0012;
+}
+
+#bottom {
+    bottom: 0;
+    background-color: #22FF30;
+}

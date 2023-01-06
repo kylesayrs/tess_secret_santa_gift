@@ -1,0 +1,31 @@
+<div style="float:left; margin-left: 20px">
+
+<p>Input your words</p>
+
+<div style="float: left; clear: both">
+	<button style="float:left;" class="warning" (click)="randomWords()">Random Words</button>
+	<button style="float:left; margin-left:5px;" class="warning" (click)="alcWords()">Alc Words</button>
+</div>
+
+<div style="float: left; clear: both">
+	<button style="float:left; margin-left:5px;" class="warning" (click)="sexWords()">Sex Words</button>
+	<button style="float:left; margin-left:5px;" (click)="clear()">Clear</button>
+</div>
+
+	<table style="clear: both">
+		<tr *ngFor="let item of item_list; index as index">
+			<td>
+				<span contenteditable="true" (blur)="updateValue(index, $event)">
+					{{ item }}
+				</span>
+				<span style="float: right; font-size: 10px" class="pseudo button" (click)="removeItem(index)">X</span>
+			</td>
+		</tr>
+	</table>
+
+	<div style="width: 500px">
+		<input id="add_input" style="margin-top: 5px; float:left; width:205px" value="" type="text">
+		<button (click)="addItem()">Add Item</button>
+	</div>
+
+</div>

@@ -1,0 +1,1469 @@
+Your global Angular CLI version (8.3.21) is greater than your local
+version (8.2.2). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+WARNING: This is a simple server for use in testing or debugging Angular applications
+locally. It hasn't been reviewed for security issues.
+
+Binding this server to an open connection can result in compromising your application or
+computer. Using a different host than the one passed to the "--host" flag might result in
+websocket connection issues. You might need to use "--disableHostCheck" if that's the
+case.
+WARNING: Running a server with --disable-host-check is a security risk. See https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a for more information.
+[HPM] Proxy created: /api  ->  http://localhost:8001
+[HPM] Subscribed to http-proxy events:  [ 'error', 'close' ]
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:8000/webpack-dev-server/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from /
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to //index.html
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /
+
+chunk {main} main.js, main.js.map (main) 33.1 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 251 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.09 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 4.47 MB [initial] [rendered]
+Date: 2019-12-28T08:20:29.850Z - Hash: 2339fe3af9b3551de021 - Time: 15841ms
+** Angular Live Development Server is listening on 0.0.0.0:8000, open your browser on http://localhost:8000/ **
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Receipts -> http://localhost:8001
+[HPM] GET /api&arg=Turnt -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Extra -> http://localhost:8001
+[HPM] GET /api&arg=Dead -> http://localhost:8001
+[HPM] GET /api&arg=Gucci -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:36:18.369Z - Hash: 677724b480e7ca51adae
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.1 kB [initial] [rendered]
+Time: 1003ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:37:47.793Z - Hash: fcf68f67306a4eba7bc8
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 667ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:39:06.378Z - Hash: 6b76873384b39b541eb3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 493ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:39:48.675Z - Hash: 82c83c6728e4a3bda9b5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 545ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:40:11.743Z - Hash: ad1bd3586c010aa9be9a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 588ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:40:30.318Z - Hash: f84657e790090db39804
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 347ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /howtoplay
+
+Date: 2019-12-28T22:40:30.880Z - Hash: f84657e790090db39804
+5 unchanged chunks
+
+Time: 269ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:41:32.671Z - Hash: 40c58eb5226316bc4f7d
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 377ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:43:09.868Z - Hash: 1b92710baad401cdf0e1
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 428ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:44:14.890Z - Hash: 829b5e0648ed14b0907a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.3 kB [initial] [rendered]
+Time: 442ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:44:57.355Z - Hash: 1e155edbff0f97d94d2b
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 397ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:45:44.911Z - Hash: 1b92710baad401cdf0e1
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 419ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-28T22:47:18.565Z - Hash: 7be29a13fc845da6a35f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 379ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:48:37.258Z - Hash: ccc12c00adc140fafcf7
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 365ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:49:26.223Z - Hash: 1b92710baad401cdf0e1
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 337ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:53:31.395Z - Hash: 68f1fa7e351c9b231f30
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 377ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:53:52.597Z - Hash: 40c58eb5226316bc4f7d
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 414ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:57:19.643Z - Hash: a67af01ba8eb81f9883f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.2 kB [initial] [rendered]
+Time: 386ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Turnt -> http://localhost:8001
+[HPM] GET /api&arg=Goat -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:59:16.186Z - Hash: ec19a7e7037383256f27
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.3 kB [initial] [rendered]
+Time: 925ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T04:59:43.026Z - Hash: 19d36af05c9d10bd9127
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.3 kB [initial] [rendered]
+Time: 611ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+URIError: Failed to decode param '/api&arg=no%cap'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:574:18)
+    at next (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:220:15)
+    at expressInit (/home1/kyle/tesssanta/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:317:13)
+    at /home1/kyle/tesssanta/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:335:12)
+    at next (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:275:10)
+    at query (/home1/kyle/tesssanta/node_modules/express/lib/middleware/query.js:45:5)
+    at Layer.handle [as handle_request] (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:317:13)
+    at /home1/kyle/tesssanta/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:335:12)
+URIError: Failed to decode param '/api&arg=no%cap'
+    at decodeURIComponent (<anonymous>)
+    at decode_param (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:172:12)
+    at Layer.match (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:123:27)
+    at matchLayer (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:574:18)
+    at next (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:220:15)
+    at expressInit (/home1/kyle/tesssanta/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:317:13)
+    at /home1/kyle/tesssanta/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:335:12)
+    at next (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:275:10)
+    at query (/home1/kyle/tesssanta/node_modules/express/lib/middleware/query.js:45:5)
+    at Layer.handle [as handle_request] (/home1/kyle/tesssanta/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:317:13)
+    at /home1/kyle/tesssanta/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home1/kyle/tesssanta/node_modules/express/lib/router/index.js:335:12)
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T08:25:35.929Z - Hash: a47bf96a3a4a2527432c
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.3 kB [initial] [rendered]
+Time: 781ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=no%20cap -> http://localhost:8001
+[HPM] GET /api&arg=NO%20CAP -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T08:27:52.027Z - Hash: da9dd60978d6adb23040
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.4 kB [initial] [rendered]
+Time: 712ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T08:28:02.132Z - Hash: d3b439f00f19da1e5ba6
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.5 kB [initial] [rendered]
+Time: 621ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=no%20cap -> http://localhost:8001
+[HPM] GET /api&arg=no%20cap -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T08:29:10.689Z - Hash: bc5aa701465dbab6eb06
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.5 kB [initial] [rendered]
+Time: 562ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=run%20me%20my%20money -> http://localhost:8001
+[HPM] GET /api&arg=Tufts%20University -> http://localhost:8001
+[HPM] GET /api&arg=Boston%20University -> http://localhost:8001
+[HPM] GET /api&arg=%20Washington%C2%A0University%20 -> http://localhost:8001
+[HPM] GET /api&arg=%20%20Washington%C2%A0University%20%20 -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T08:43:24.116Z - Hash: 92b1273287d988eca8a4
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.9 kB [initial] [rendered]
+Time: 525ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Crash -> http://localhost:8001
+[HPM] GET /api&arg=Beat -> http://localhost:8001
+[HPM] GET /api&arg=Kiki -> http://localhost:8001
+[HPM] GET /api&arg=Lit -> http://localhost:8001
+[HPM] GET /api&arg=Read -> http://localhost:8001
+[HPM] GET /api&arg=Eighth -> http://localhost:8001
+[HPM] GET /api&arg=Cap -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Basic -> http://localhost:8001
+[HPM] GET /api&arg=Bae -> http://localhost:8001
+[HPM] GET /api&arg=Gay -> http://localhost:8001
+[HPM] GET /api&arg=Threesome -> http://localhost:8001
+[HPM] GET /api&arg=Yeet -> http://localhost:8001
+[HPM] GET /api&arg=Bae -> http://localhost:8001
+[HPM] GET /api&arg=Basic -> http://localhost:8001
+[HPM] GET /api&arg=No%20Cap -> http://localhost:8001
+[HPM] GET /api&arg=Basic -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T23:33:57.703Z - Hash: ffbaa6bfc1887621c75f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.9 kB [initial] [rendered]
+Time: 720ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Bae -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-29T23:35:01.407Z - Hash: fe0e1080a6dcb3740f28
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 33.9 kB [initial] [rendered]
+Time: 675ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Threesome -> http://localhost:8001
+[HPM] GET /api&arg=Sophie%20Devincenti%20 -> http://localhost:8001
+[HPM] GET /api&arg=Kyle%20 -> http://localhost:8001
+[HPM] GET /api&arg=Kyle -> http://localhost:8001
+[HPM] GET /api&arg=Fleek -> http://localhost:8001
+[HPM] GET /api&arg=Fleek -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=shervin -> http://localhost:8001
+[HPM] GET /api&arg=Shrooms -> http://localhost:8001
+[HPM] GET /api&arg=clit -> http://localhost:8001
+[HPM] GET /api&arg=clit -> http://localhost:8001
+[HPM] GET /api&arg=Shrooms -> http://localhost:8001
+[HPM] GET /api&arg=clit -> http://localhost:8001
+[HPM] GET /api&arg=james -> http://localhost:8001
+[HPM] GET /api&arg=clit -> http://localhost:8001
+[HPM] GET /api&arg=james -> http://localhost:8001
+[HPM] GET /api&arg=Boston%20University -> http://localhost:8001
+[HPM] GET /api&arg=Shook -> http://localhost:8001
+[HPM] GET /api&arg=Slaps -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:49:38.944Z - Hash: 4f90e16da3957793ef55
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.1 kB [initial] [rendered]
+Time: 706ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:49:54.930Z - Hash: e8bd61514842aec9b3e3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.1 kB [initial] [rendered]
+Time: 533ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:50:44.051Z - Hash: 28d440820cd7ac2cf3bb
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 596ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Goat -> http://localhost:8001
+[HPM] GET /api&arg=Salty -> http://localhost:8001
+[HPM] GET /api&arg=Tea -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Whore -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:52:35.572Z - Hash: 842daed6eb7747112682
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 626ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:53:06.535Z - Hash: 28d440820cd7ac2cf3bb
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 590ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:53:35.940Z - Hash: bd9cfd747926edba5684
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 564ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:54:24.238Z - Hash: eed9ab5cfdba982711bf
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 587ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:54:52.881Z - Hash: bc58d68117964918f925
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 571ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:55:51.464Z - Hash: 484043b83511a61617a7
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 714ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:56:37.639Z - Hash: c39301d68a3ba8678fb0
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 551ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:58:03.827Z - Hash: dbd5e9dfa8f86013e6d2
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 661ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T08:58:35.671Z - Hash: 850c05a4c99630cb330a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 801ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:00:14.296Z - Hash: fe6cd7d059900a9a64f5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 584ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:00:22.378Z - Hash: b6ba538a62d27c678b28
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.2 kB [initial] [rendered]
+Time: 301ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:03:53.857Z - Hash: 8b1142d6ab7f2ee81f53
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 356ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:09:27.712Z - Hash: b3f3dc215cf442810672
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 347ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:09:48.073Z - Hash: 8b1142d6ab7f2ee81f53
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 273ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:11:03.538Z - Hash: 6e17b8428151933f129c
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 283ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:11:40.677Z - Hash: 8b1142d6ab7f2ee81f53
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 272ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:11:57.696Z - Hash: 92bc64ae6bdb2c1deca5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 254ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:12:29.841Z - Hash: afdf62b49deea363e833
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 291ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:12:58.301Z - Hash: f1b967151bd698179361
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 345ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:13:53.444Z - Hash: afdf62b49deea363e833
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 354ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:14:07.459Z - Hash: 027dab0441b2918ac757
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 271ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:14:21.397Z - Hash: a5ae4f93823c258d09d5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 323ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:14:40.238Z - Hash: 271b47548649d02c305f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 299ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:15:33.625Z - Hash: a5ae4f93823c258d09d5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 320ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:15:58.753Z - Hash: 0d275464f7f9c1da9e09
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 294ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:16:19.720Z - Hash: a5ae4f93823c258d09d5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 283ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:17:42.543Z - Hash: 406529b6de1036fd674c
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 283ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:17:58.538Z - Hash: 8f1d8a25e05e60ce8f0f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 253ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:18:26.810Z - Hash: a3fccc53d3b8c61e1efd
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 353ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:18:36.720Z - Hash: a095eee79493a2161334
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 351ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:19:29.092Z - Hash: 743c22e2159ff2bd01ea
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.3 kB [initial] [rendered]
+Time: 290ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:19:48.506Z - Hash: 29d0fe1e9b249b79f745
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 279ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:20:01.635Z - Hash: 18f84979314acba42678
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 272ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:20:48.116Z - Hash: 4b9e195e20d92414cdd3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 292ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:21:21.398Z - Hash: 4102496d9b6225366d28
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 282ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:21:41.921Z - Hash: 8faa54da7661ae5a8a65
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 270ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:22:12.883Z - Hash: 4992093c3c1b251ee79e
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 369ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:23:26.348Z - Hash: 29220ac7a877615f2278
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 275ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:24:36.112Z - Hash: 28d6d036ebe2930eab07
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 296ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:25:04.432Z - Hash: 5e5125bdb8682ee1e620
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 268ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Woodlief -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:26:35.829Z - Hash: ff7be9e0be71c2de5a1b
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 280ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:26:47.813Z - Hash: 2c5c36c35a61e7cad72e
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 371ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:26:57.780Z - Hash: 401c08ddcc528a44d5bd
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 260ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:28:37.964Z - Hash: 0e96186f45c31e5fe962
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 275ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:29:09.208Z - Hash: 2e1708b64cf5c3676c26
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 281ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:29:37.395Z - Hash: 5e5125bdb8682ee1e620
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 268ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:30:52.865Z - Hash: d310e21c23d565779a3a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 260ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:31:14.256Z - Hash: eaf9f9af97a898503026
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 286ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:34:08.874Z - Hash: 2645a993e5d82ffa1641
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.4 kB [initial] [rendered]
+Time: 281ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:35:19.853Z - Hash: d09a48ef9cc0e57b8d16
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 318ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:35:30.402Z - Hash: 8e0dc29a16963365352c
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 264ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:39:10.276Z - Hash: 4dd501bf6fe5c4e3c2c3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.6 kB [initial] [rendered]
+Time: 301ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:40:58.911Z - Hash: 2ef448f40208dd550ba4
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 249ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:41:32.394Z - Hash: 6b46c5d8ccbabb3b85ac
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 324ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:41:47.891Z - Hash: 85f2e1486fd5b3402877
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 256ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:42:19.218Z - Hash: 4b49908d95086999ffd5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 391ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:42:44.021Z - Hash: 8e0dc29a16963365352c
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 325ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:43:11.161Z - Hash: 4dd501bf6fe5c4e3c2c3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.6 kB [initial] [rendered]
+Time: 297ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:44:09.466Z - Hash: d09a48ef9cc0e57b8d16
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 296ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:44:30.042Z - Hash: 78aa4dc1ebb6c682d97a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 277ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:44:48.239Z - Hash: 9d81a797674dc6e618e3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 266ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:45:13.604Z - Hash: fafd007fd6fd129d7bb5
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 313ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:46:13.548Z - Hash: 78aa4dc1ebb6c682d97a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 301ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:46:48.939Z - Hash: c7ab8cbd14577a6c62b3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 305ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:46:58.573Z - Hash: 88e80a839f88ea8f4f00
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 290ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:47:18.423Z - Hash: 6b3345817f09b86dba1c
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 287ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:47:32.398Z - Hash: 6a12cd627bd9cfad027d
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 247ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:48:23.457Z - Hash: 6af0f1239f602f9a809e
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 388ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:49:38.265Z - Hash: b3479890d0f5192b3f53
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 322ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:49:55.984Z - Hash: a9c45326de110b04017f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 280ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:50:14.726Z - Hash: b22d206788d68444ae4a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 298ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:50:26.186Z - Hash: 6b7fb1458da09fb14b21
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 235ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:50:34.381Z - Hash: 4183ce8267b8072d5c96
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 315ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:50:43.590Z - Hash: cb0991692243f5c05558
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 287ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:51:12.178Z - Hash: ffa4b38da58280385e21
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 306ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:51:22.037Z - Hash: 084c401848f767caec44
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 233ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:51:36.367Z - Hash: 0fb6bbbc89a6c0ea64a9
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 234ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:51:52.625Z - Hash: d627f4a55ff2464df0b8
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 272ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:52:17.806Z - Hash: a6b8bd4027ce08eed001
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 261ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:52:27.140Z - Hash: 36a509f8afce8360dbd6
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 351ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:52:45.554Z - Hash: d627f4a55ff2464df0b8
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 269ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:56:16.422Z - Hash: d627f4a55ff2464df0b8
+5 unchanged chunks
+
+Time: 547ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+    
+    ERROR in src/app/app.component.ts(10,14): error TS2420: Class 'AppComponent' incorrectly implements interface 'OnInit'.
+      Property 'ngOnInit' is missing in type 'AppComponent' but required in type 'OnInit'.
+    
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:56:39.130Z - Hash: c038ad1cc9e3cf70bbae
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 361ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:56:55.933Z - Hash: 1530c1d470eb888a3069
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 264ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:57:34.902Z - Hash: 285798345191ed37afd1
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 271ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:57:44.350Z - Hash: 802b539971331652e9a0
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.5 kB [initial] [rendered]
+Time: 342ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T09:58:00.401Z - Hash: 6368aa3fdcb29ba5c2cf
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.6 kB [initial] [rendered]
+Time: 399ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:00:15.406Z - Hash: c775cc5d55bed2ccc774
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.7 kB [initial] [rendered]
+Time: 391ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+    
+    ERROR in src/app/app.component.ts(19,28): error TS2322: Type '{ src: string; name: string; }' is not assignable to type 'String'.
+      Object literal may only specify known properties, and 'src' does not exist in type 'String'.
+    
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:00:44.238Z - Hash: bb02a698212989a5656f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.7 kB [initial] [rendered]
+Time: 403ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+    
+    ERROR in src/app/app.component.ts(19,28): error TS2322: Type '{ src: string; name: string; }' is not assignable to type 'String'.
+      Object literal may only specify known properties, and 'src' does not exist in type 'String'.
+    
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:00:57.587Z - Hash: 1a6565e809600bb15f14
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.7 kB [initial] [rendered]
+Time: 343ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:02:58.592Z - Hash: 52b99df78650b3266286
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.9 kB [initial] [rendered]
+Time: 400ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:03:10.603Z - Hash: 27d11d35a7e8343b3cbc
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 34.9 kB [initial] [rendered]
+Time: 227ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:09:23.923Z - Hash: 86cbafe82e66884c35d2
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.4 kB [initial] [rendered]
+Time: 710ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:11:21.359Z - Hash: 6a1bff703f77d8838511
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.5 kB [initial] [rendered]
+Time: 487ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Sophie -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:11:50.722Z - Hash: d4748cf25432ee3750e0
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.5 kB [initial] [rendered]
+Time: 572ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:12:24.479Z - Hash: 2b9808fe635b51d7e501
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.5 kB [initial] [rendered]
+Time: 526ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Sophie -> http://localhost:8001
+[HPM] GET /api&arg=Kyle -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:13:57.129Z - Hash: 749c1127f5d7838fa72a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.6 kB [initial] [rendered]
+Time: 562ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:14:09.446Z - Hash: b14e701ec33a122076ea
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.6 kB [initial] [rendered]
+Time: 437ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Karla -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:17:11.044Z - Hash: 5c52062a196e42fd0640
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.6 kB [initial] [rendered]
+Time: 520ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:17:28.857Z - Hash: 6f414c27e7b339f7a143
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.7 kB [initial] [rendered]
+Time: 598ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:18:10.298Z - Hash: 9c53d966ffb4e2b512db
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.7 kB [initial] [rendered]
+Time: 277ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:18:24.151Z - Hash: 76877f90dfd3625a9253
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.8 kB [initial] [rendered]
+Time: 299ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /edit
+
+Date: 2019-12-30T10:18:25.275Z - Hash: 0522a31512a75ed36a69
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.8 kB [initial] [rendered]
+Time: 314ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:18:52.058Z - Hash: a344f1da60a885c5df93
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.8 kB [initial] [rendered]
+Time: 296ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:21:04.743Z - Hash: 0a2bd8b87bda0cc58bc7
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.6 kB [initial] [rendered]
+Time: 505ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:21:23.243Z - Hash: ef49cea8c3ffbf525a6e
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.8 kB [initial] [rendered]
+Time: 494ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:22:12.603Z - Hash: d7370a2f5185ac2c206d
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.8 kB [initial] [rendered]
+Time: 303ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /runtime.js
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /polyfills.js
+[34mℹ[39m [90m｢wdm｣[39m: wait until bundle finished: /styles.js
+
+Date: 2019-12-30T10:22:13.941Z - Hash: 6dc2a3c6fed218352ad3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 35.7 kB [initial] [rendered]
+Time: 347ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Vodka -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:25:47.565Z - Hash: d6ba19f6dedf1e263fd8
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36 kB [initial] [rendered]
+Time: 486ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:27:02.143Z - Hash: 845b19811b1acde0a517
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.1 kB [initial] [rendered]
+Time: 543ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Mead -> http://localhost:8001
+[HPM] GET /api&arg=Budweiser -> http://localhost:8001
+[HPM] GET /api&arg=Keystone%20Light -> http://localhost:8001
+[HPM] GET /api&arg=Whisky -> http://localhost:8001
+[HPM] GET /api&arg=Coors -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:28:12.844Z - Hash: 68fc7e097b69d5d726dd
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.1 kB [initial] [rendered]
+Time: 524ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:29:02.004Z - Hash: dbf0aeb1b1db218fde99
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.2 kB [initial] [rendered]
+Time: 267ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:29:40.911Z - Hash: 10181b28b77ebd98e313
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.2 kB [initial] [rendered]
+Time: 266ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:30:09.848Z - Hash: a8d4abbd4612b55128a8
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 283ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:30:30.750Z - Hash: eb227883106a7f8ae22b
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.2 kB [initial] [rendered]
+Time: 333ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:31:14.064Z - Hash: 0d31c092d9a225e4b9d6
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 341ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:31:26.147Z - Hash: 97e47b18c7f58f73ed91
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 263ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:31:36.980Z - Hash: 9c9bdff297a4b7f332f0
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 263ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:31:49.379Z - Hash: 16aeededeb24855f8500
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 310ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:32:31.316Z - Hash: a0ea8e87abf70ea059bd
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 296ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:32:55.354Z - Hash: 101b3f46703df1b9b59f
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 331ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:33:19.902Z - Hash: 14b75ed9dbd5b3c2f15a
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 367ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:33:35.517Z - Hash: f7c12df31e11732331e9
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 311ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:33:45.745Z - Hash: 4bbf76a51459db10a1a6
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 220ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:34:03.866Z - Hash: 2a58bb92311e44b0348e
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 271ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:34:18.615Z - Hash: ef8a288ebde3ba4ceac0
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.3 kB [initial] [rendered]
+Time: 264ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:35:43.906Z - Hash: f4fc0807a51c45e6b58b
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.5 kB [initial] [rendered]
+Time: 497ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:39:15.228Z - Hash: a1772c14bde42d15cd29
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.6 kB [initial] [rendered]
+Time: 512ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Realness -> http://localhost:8001
+[HPM] GET /api&arg=Yote -> http://localhost:8001
+[HPM] GET /api&arg=Yot -> http://localhost:8001
+[HPM] GET /api&arg=Gag -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:40:31.406Z - Hash: 294b36fe49c31439b220
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.6 kB [initial] [rendered]
+Time: 455ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:42:19.440Z - Hash: ebb947f90aa42ff95367
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.5 kB [initial] [rendered]
+Time: 443ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:42:41.175Z - Hash: 93fc3acd5d144dd52ff3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.7 kB [initial] [rendered]
+Time: 635ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:43:25.270Z - Hash: 6d0a23f26a2b2d8cda0b
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.8 kB [initial] [rendered]
+Time: 626ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Santa -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:43:57.364Z - Hash: 1b1e96a37fad82cd1adf
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.8 kB [initial] [rendered]
+Time: 342ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Alchohol -> http://localhost:8001
+[HPM] GET /api&arg=Secret%20Santa -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:45:51.884Z - Hash: dfffc199ad810298f497
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.9 kB [initial] [rendered]
+Time: 612ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:46:02.952Z - Hash: e81480179b6533ae3201
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.9 kB [initial] [rendered]
+Time: 372ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:46:10.081Z - Hash: 3113d99391fc1dff05e0
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.9 kB [initial] [rendered]
+Time: 597ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Soju -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T10:47:08.823Z - Hash: 52fdc284a3705408d6f9
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.9 kB [initial] [rendered]
+Time: 559ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Soju -> http://localhost:8001
+[HPM] GET /api&arg=Sake -> http://localhost:8001
+[HPM] GET /api&arg=White%20Wine -> http://localhost:8001
+[HPM] GET /api&arg=Tequila -> http://localhost:8001
+[HPM] GET /api&arg=Donkey%20Punch -> http://localhost:8001
+[HPM] GET /api&arg=Threesome -> http://localhost:8001
+[HPM] GET /api&arg=Screw -> http://localhost:8001
+[HPM] GET /api&arg=Cum -> http://localhost:8001
+[HPM] GET /api&arg=Fuck -> http://localhost:8001
+[HPM] GET /api&arg=Condom -> http://localhost:8001
+[HPM] GET /api&arg=Secret%20Santa -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Alchohol -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Game%20over -> http://localhost:8001
+[HPM] GET /api&arg=Campagne -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T11:27:25.332Z - Hash: e5900e25859da87bf0a3
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.9 kB [initial] [rendered]
+Time: 442ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Beer -> http://localhost:8001
+[HPM] GET /api&arg=Brandy -> http://localhost:8001
+[HPM] GET /api&arg=Natural%20Light -> http://localhost:8001
+[HPM] GET /api&arg=Gin -> http://localhost:8001
+[HPM] GET /api&arg=Vermouth -> http://localhost:8001
+[HPM] GET /api&arg=Beer -> http://localhost:8001
+[HPM] GET /api&arg=Tequila -> http://localhost:8001
+[HPM] GET /api&arg=Mead -> http://localhost:8001
+[HPM] GET /api&arg=Whisky -> http://localhost:8001
+[HPM] GET /api&arg=Champagne -> http://localhost:8001
+[HPM] GET /api&arg=Budweiser -> http://localhost:8001
+[HPM] GET /api&arg=Rye -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2019-12-30T20:16:59.395Z - Hash: d339f9ba2bfb0ab6c933
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 36.9 kB [initial] [rendered]
+Time: 519ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=Boston%20University -> http://localhost:8001
+[HPM] GET /api&arg=College -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Karla -> http://localhost:8001
+[HPM] GET /api&arg=Kyle -> http://localhost:8001
+[HPM] GET /api&arg=James -> http://localhost:8001
+[HPM] GET /api&arg=Sophie -> http://localhost:8001
+[HPM] GET /api&arg=Screw -> http://localhost:8001
+[HPM] GET /api&arg=Threesome -> http://localhost:8001
+[HPM] GET /api&arg=Shag -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Ratchet -> http://localhost:8001
+[HPM] GET /api&arg=Secret%20Santa -> http://localhost:8001
+[HPM] GET /api&arg=Hicky -> http://localhost:8001
+[HPM] GET /api&arg=Fuck -> http://localhost:8001
+[HPM] GET /api&arg=Foursome -> http://localhost:8001
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-03T01:34:35.958Z - Hash: d801f01cbec451275fa4
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 38.4 kB [initial] [rendered]
+Time: 1092ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+
+Date: 2020-01-03T01:34:36.821Z - Hash: d801f01cbec451275fa4
+5 unchanged chunks
+
+Time: 569ms
+[34mℹ[39m [90m｢wdm｣[39m: Compiled successfully.
+[HPM] GET /api&arg=The%20dads -> http://localhost:8001
+[HPM] GET /api&arg=Tess -> http://localhost:8001
+[HPM] GET /api&arg=Dads -> http://localhost:8001
+[HPM] GET /api&arg=Cider -> http://localhost:8001
+[HPM] GET /api&arg=Budweiser -> http://localhost:8001
+[HPM] GET /api&arg=Beer -> http://localhost:8001
+[HPM] GET /api&arg=Red%20Wine -> http://localhost:8001
+[HPM] GET /api&arg=Gay -> http://localhost:8001
+[HPM] GET /api&arg=Gey -> http://localhost:8001
+[HPM] GET /api&arg=Dead -> http://localhost:8001
+[HPM] GET /api&arg=Whole%20Snack -> http://localhost:8001
+[HPM] GET /api&arg=Crash -> http://localhost:8001

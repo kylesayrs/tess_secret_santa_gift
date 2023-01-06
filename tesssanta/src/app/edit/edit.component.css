@@ -1,0 +1,4 @@
+div#itemviewer {
+	height: 325px;
+	overflow: auto;	
+}
